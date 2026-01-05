@@ -2,10 +2,10 @@
 blogging news
 
 # project stack 
- - [X] ML
- - [X] js
+ - [ ] ML
+ - [ ] js     
  - [ ] Python 
- - [ ] fastapi
+ - [X] fastapi
  - [ ] expess js
  - [ ] nest js
  - [ ] mongo db
